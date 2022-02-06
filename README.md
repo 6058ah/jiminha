@@ -37,5 +37,5 @@ Techs that I've used at least once
 - First prize in final presentation
 
 ## Projects
-**Capstome Design** [Thematic ETF(rechargeable battery) price prediction using LSTM and Sentiment Analysis](https://github.com/6058ah/BusinessCapstone/blob/master/%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(%ED%95%98%EC%A7%80%EB%AF%BC%2C%20%EC%9D%B4%EC%A2%85%ED%98%81%2C%20%EC%8B%A0%ED%83%9D%EC%88%98)%EC%88%98%EC%A0%95_4.pdf)  
+**Capstome Design** [Thematic ETF(rechargeable battery) price prediction using LSTM and Sentiment Analysis](https://github.com/6058ah/BusinessCapstone/blob/master/%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(%ED%95%98%EC%A7%80%EB%AF%BC%2C%20%EC%9D%B4%EC%A2%85%ED%98%81%2C%20%EC%8B%A0%ED%83%9D%EC%88%98)%EC%88%98%EC%A0%95_4.pdf)(2021)  
 Research on papers related to LSTM and stock price prediction under the guidance of a business professor. Submit a report after conducting the study through Colab. Presentation of project contents at the Autumn Conference hosted by the THE KOREAN ACADEMIC SOCIETY OF BUSINESS ADMINISTRATION
